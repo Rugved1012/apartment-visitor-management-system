@@ -1,0 +1,5 @@
+# Ignore local environment or sensitive files
+# avmss/includes/dbconnection.php   # (Uncomment if dbconnection contains personal production credentials)
+.DS_Store
+Thumbs.db
+*.log
